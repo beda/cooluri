@@ -3,7 +3,7 @@
 /***************************************************************
  * Extension Manager/Repository config file for ext "cooluri".
  *
- * Auto generated 21-02-2013 11:21
+ * Auto generated 30-09-2013 09:53
  *
  * Manual updates:
  * Only the data in the array - everything else is removed by next
@@ -15,7 +15,7 @@ $EM_CONF[$_EXTKEY] = array (
 	'description' => 'RealURL alternative. Have nice URLs instead of ugly with parameters. CoolURI has user-friendly XML configuration file. For simple setup, just use the one supplied with extension and you are ready to go.',
 	'category' => 'fe',
 	'shy' => 0,
-	'version' => '1.0.32',
+	'version' => '1.0.33',
 	'dependencies' => '',
 	'conflicts' => '',
 	'priority' => '',
